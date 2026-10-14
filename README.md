@@ -3,6 +3,7 @@
 
 languages connus : C,C#,java,winform(C#),python,HTML,PHP
 
-projets a venir : refaire teamfight tacticts (simplement) en java (ou autre si mieux)
+projets a venir : -refaire teamfight tacticts (simplement) en java (ou autre si mieux)
+                  -boss rush avec mécanique de parry en rythme
 
 
